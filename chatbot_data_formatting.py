@@ -19,7 +19,7 @@ answers = []
 filename= 'WikiQA-train.txt'
 questions=[]
 answers=[]
-with open(os.path.join(data_dir,filename), 'r') as file:
+with open(os.path.join(data_dir,filename), 'r', encoding='utf-8') as file:
     for line in file:
         data = line.split('\t')
         question, answer = data[0], data[1]
@@ -33,7 +33,7 @@ data_dir = os.path.join(root_dir, 'chatbot_data')
 print(data_dir)
 for filename in os.listdir(data_dir):
     print(filename)
-    with open(os.path.join(data_dir,filename), 'r') as file:
+    with open(os.path.join(data_dir,filename), 'r', encoding='utf-8') as file:
         data = yaml.safe_load(file)
         for conversation in data['conversations']:
             question = conversation[0]
@@ -58,12 +58,12 @@ answers = ['<BOS> ' + answer + ' <EOS>' for answer in answers_with_tags]
 
 # save prepared data into text files
 data_dir = os.path.join(root_dir, 'prepared_data')
-with open(os.path.join(data_dir, 'questions.txt'), 'w') as file:
+with open(os.path.join(data_dir, 'questions.txt'), 'w', encoding='utf-8') as file:
     for question in questions:
         file.write(question)
         file.write('\n')
 
-with open(os.path.join(data_dir, 'answers.txt'), 'w') as file:
+with open(os.path.join(data_dir, 'answers.txt'), 'w', encoding='utf-8') as file:
     for answer in answers:
         file.write(answer)
         file.write('\n')

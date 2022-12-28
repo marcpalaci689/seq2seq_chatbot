@@ -8,6 +8,7 @@ import tensorflow as tf
 import re
 import numpy as np
 import pickle
+import contractions
 
 embedding_size = 50
 
@@ -38,7 +39,8 @@ decoder_model = tf.keras.models.Model([decoder_input.input] + decoder_state_inpu
 # infer
 idx2word = {value:key for key,value in tokenizer.word_index.items()}
 
-sentence = ['Who is the best soccer player']
+sentence = ['Who\'s the best soccer player']
+preprocessed_sentence = map(lambda x: contractions.fix(x), sentence)
 preprocessed_sentence = tokenizer.texts_to_sequences(sentence)
 preprocessed_sentence = tf.keras.preprocessing.sequence.pad_sequences(preprocessed_sentence , maxlen=23 , padding='post')
 
