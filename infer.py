@@ -10,13 +10,13 @@ import numpy as np
 import pickle
 import contractions
 
-embedding_size = 50
+embedding_size = 100
 
-with open('tokenizer.pkl', 'rb') as file:
+with open('tokenizer{0}.pkl'.format(embedding_size), 'rb') as file:
     tokenizer = pickle.load(file)
 max_vocab = len(tokenizer.word_index) + 1
 
-model = tf.keras.models.load_model('chatbot_model')
+model = tf.keras.models.load_model('chatbot_model{0}'.format(embedding_size))
 
 encoder_input = model.get_layer('encoder_inputs')
 encoder_lstm = model.get_layer('lstm')
@@ -41,7 +41,7 @@ idx2word = {value:key for key,value in tokenizer.word_index.items()}
 
 sentence = ['Who\'s the best soccer player']
 preprocessed_sentence = map(lambda x: contractions.fix(x), sentence)
-preprocessed_sentence = tokenizer.texts_to_sequences(sentence)
+preprocessed_sentence = tokenizer.texts_to_sequences(preprocessed_sentence)
 preprocessed_sentence = tf.keras.preprocessing.sequence.pad_sequences(preprocessed_sentence , maxlen=23 , padding='post')
 
 state = encoder_model.predict(preprocessed_sentence)
@@ -55,7 +55,7 @@ response = ''
 
 while word!='eos':
     response += word + ' '
-    decoder_output, hidden_state, carry_state = decoder_model.predict([start_vector] + state)
+    decoder_output, hidden_state, carry_state = decoder_model.predict([start_vector] + state, verbose=0)
 
     word = idx2word[np.argmax(decoder_output)]
     start_vector[0,0] = tokenizer.word_index[word]
