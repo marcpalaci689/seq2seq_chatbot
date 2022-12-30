@@ -49,7 +49,19 @@ for filename in os.listdir(data_dir):
                 questions.append(question)
                 answers.append(answer)
 
+# prepare squad data set
+data_dir = os.path.join(root_dir, 'squad_data/train-v2.0.json')
+with open(data_dir, 'r', encoding='utf-8') as file:
+    data = json.load(file)
+for entry in data['data']:
+    for paragraph in entry['paragraphs']:
+        for qas in paragraph['qas']:
+            if qas['question'] and qas['answers']:
+                questions.append(qas['question'])
+                answers.append(qas['answers'][0]['text'])
+
 # prepare the convai3d data
+""" 
 data_dir = os.path.join(root_dir, 'convai3_data')
 with open(os.path.join(data_dir,'data_tolokers.json'), 'r', encoding='utf-8') as file:
     data = json.load(file)
@@ -73,7 +85,7 @@ for conv in data:
                     answers.append(a)
                 dialogue.pop(0)
                 dialogue.pop(0)
-
+ """
 answers_with_tags = []
 for i in range(len(answers)):
     if type(answers[i]) == str:
@@ -95,6 +107,19 @@ with open(os.path.join(data_dir, 'answers.txt'), 'w', encoding='utf-8') as file:
         file.write(answer)
         file.write('\n')
 
+
+
+data_dir = os.path.join(root_dir, 'squad_data/train-v2.0.json')
+with open(data_dir, 'r', encoding='utf-8') as file:
+    data = json.load(file)
+    i=0
+for entry in data['data']:
+    for paragraph in entry['paragraphs']:
+        for qas in paragraph['qas']:
+            if qas['question'] and qas['answers']:
+                questions.append(qas['question'])
+                answers.append(qas['answers'][0]['text'])
+        
 
 
     

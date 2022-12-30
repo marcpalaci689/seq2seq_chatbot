@@ -13,7 +13,7 @@ import contractions
 embedding_size = 50
 learning_rate = 0.02
 batch_size=128
-epochs = 5
+epochs = 2
 
 root_dir = Path(__file__).parent.absolute()
 data_dir = os.path.join(root_dir, 'prepared_data')
