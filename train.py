@@ -70,12 +70,12 @@ target_output=np.array(padded_output)
 
 encoder_inputs = tf.keras.layers.Input(shape=(maxlen_questions,), name='encoder_inputs')
 encoder_embedding = tf.keras.layers.Embedding(max_vocab, embedding_size, mask_zero=True, embeddings_initializer=tf.keras.initializers.Constant(embedding), trainable=True) (encoder_inputs) #TODO add initializer to embedding
-_, encoder_hidden_state, encoder_carry_state = tf.keras.layers.LSTM(embedding_size, return_state=True) (encoder_embedding)
+_, encoder_hidden_state, encoder_carry_state = tf.keras.layers.LSTM(embedding_size, return_state=True, dropout=dropout) (encoder_embedding)
 encoder_state = [encoder_hidden_state, encoder_carry_state]
 
 decoder_inputs = tf.keras.layers.Input(shape=(maxlen_answers,), name='decoder_inputs')
 decoder_embedding = tf.keras.layers.Embedding(max_vocab, embedding_size, mask_zero=True, embeddings_initializer=tf.keras.initializers.Constant(embedding), trainable=True) (decoder_inputs) #TODO add initializer to embedding
-decoder_outputs, _, _ = tf.keras.layers.LSTM(embedding_size, return_sequences=True, return_state=True) (decoder_embedding, initial_state=encoder_state)
+decoder_outputs, _, _ = tf.keras.layers.LSTM(embedding_size, return_sequences=True, return_state=True, dropout=dropout) (decoder_embedding, initial_state=encoder_state)
 outputs = tf.keras.layers.Dense(max_vocab, activation=tf.keras.activations.softmax) (decoder_outputs)
 
 model = tf.keras.Model([encoder_inputs, decoder_inputs], outputs)
