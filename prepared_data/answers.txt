@@ -856,6 +856,418 @@
 <BOS> And athletics? Were you a good athlete, and are you a good athlete now? <EOS>
 <BOS> And which one was your favorite sport? <EOS>
 <BOS> Interesting. <EOS>
+<BOS> Yeah. what do you put inside an oven? <EOS>
+<BOS> Oh, yeah, me neither. What is cold? <EOS>
+<BOS> That is true. Very cold. What can you find down at the Artic? <EOS>
+<BOS> Yeah, polar bears OK, have you ever seen a polar bear? <EOS>
+<BOS> Grapes.  <EOS>
+<BOS> Do you like...? <EOS>
+<BOS> Do you like green grapes or purple grapes? <EOS>
+<BOS> Green grapes.  <EOS>
+<BOS> OK, actually in my home in America we have many grapes where I live also. <EOS>
+<BOS> Winter. <EOS>
+<BOS> Really? <EOS>
+<BOS> You like the cool, cool weather.  <EOS>
+<BOS> OK. Talk to us about computers. <EOS>
+<BOS> Yeah. Do you learn about computers at school or on your own?  <EOS>
+<BOS> OK. Do you have a laptop or a PC?  <EOS>
+<BOS> Do you like your computer or do you want a new one? <EOS>
+<BOS> OK. How long have you had your computer? <EOS>
+<BOS> Oh, yeah, that's pretty old for a computer. Yeah, so do you talk to your friends every night by e-mail? <EOS>
+<BOS> OK. <EOS>
+<BOS> So nowadays, do high school kids talk by e-mail more than phone? <EOS>
+<BOS> OK. Thanks a lot Jeanna. <EOS>
+<BOS> Yeah, I hear you, so you say permit, is that the same thing as a license? <EOS>
+<BOS> Oh, really. How do you get a permit? <EOS>
+<BOS> OK. What is the DMV? <EOS>
+<BOS> OK, and they give you your license of permit so you can drive. OK, when you have a driver's license what places do you want to go to? <EOS>
+<BOS> OK, nice, so do you have a car right now? <EOS>
+<BOS> 15! OK, are you in high school?  <EOS>
+<BOS> OK. What do you think about high school?  <EOS>
+<BOS> What do you like to study in high school?  <EOS>
+<BOS> OK. Why do you like history?  <EOS>
+<BOS> OK. What's one thing you don't like about high school?  <EOS>
+<BOS> Oh, really! How? How are people cruel?  <EOS>
+<BOS> Oh, that's too bad. So, you're nice to everybody?  <EOS>
+<BOS> Where is it, actually, that you grew up? <EOS>
+<BOS> OK, so what was your childhood like? Were you into nature, or sports? <EOS>
+<BOS> OK, actually, on this trip where did you go? <EOS>
+<BOS> Yeah, OK. Neither do I. Do you like dancing?  <EOS>
+<BOS> OK. Uh..what kind of dancing do you like? <EOS>
+<BOS> Nothing special, no. OK. Do you like to cook?  <EOS>
+<BOS> OK. What, what do you like to cook? <EOS>
+<BOS> And do you like to exercise?  <EOS>
+<BOS> OK.  <EOS>
+<BOS> Last one! do you like to clean?  <EOS>
+<BOS> A big house. Really!  <EOS>
+<BOS> Jeez! 12 rooms. <EOS>
+<BOS> Wow. OK. I guess. well that's old for America, but that's probably not very old. <EOS>
+<BOS> Wow. OK. What is in your kitchen? <EOS>
+<BOS> OK. And what is in the living room? <EOS>
+<BOS> OK. Do you watch TV a lot? <EOS>
+<BOS> Oh. <EOS>
+<BOS> Oh, wow, that's the only thing I like is sports <EOS>
+<BOS> Yeah. OK. Great. Thanks.  <EOS>
+<BOS> Wow, sounds like a good place. <EOS>
+<BOS> What type of American food?  <EOS>
+<BOS> Hamburgers. Is that your favorite dish as well? <EOS>
+<BOS> Do you like any side things like french fries with your hamburger? <EOS>
+<BOS> A salad. OK. What about dessert? What's your favorite dessert? <EOS>
+<BOS> Chocolate cake. Anything else? Do you like to eat it with anything?  <EOS>
+<BOS> Sounds good. So before you said you like to eat a salad. What type of salad, what type of vegetables do you like? <EOS>
+<BOS> Not raw onions. <EOS>
+<BOS> That's interesting. Thanks Mari. <EOS>
+<BOS> OK. What is a physician's assistant? <EOS>
+<BOS> Oh, OK. So that is what you want to do? <EOS>
+<BOS> You wanna make lots of money. <EOS>
+<BOS> How do you become a physici... physician's assistant. I can't even say it. <EOS>
+<BOS> Like an assistant, or.. <EOS>
+<BOS> Oh, an intern.  <EOS>
+<BOS> Then, that's it. You finish. <EOS>
+<BOS> Well, best wishes on becoming a physician's assistant. I'm sure you'll make a good one.  <EOS>
+<BOS> OK. Wow, you play soccer? <EOS>
+<BOS> How often do you play? <EOS>
+<BOS> Wow, that's quite a bit. -- How come you don't play now? <EOS>
+<BOS> You've retired. <EOS>
+<BOS> OK. Do you watch soccer on TV? <EOS>
+<BOS> OK. Yeah, we, we all have to work I guess. Um..who is the best soccer player in the world? <EOS>
+<BOS> OK. Nice. An..and what is you favorite soccer team? <EOS>
+<BOS> OK. Great. All right. Thanks a lot.  <EOS>
+<BOS> I like to barbecue outside on the grill. <EOS>
+<BOS> When I cook meat, I don't put much, only salt, pepper, and a little bit of seasoning. <EOS>
+<BOS> No, I don't think I'm a good dancer and I don't really try to be a good dancer. <EOS>
+<BOS> No, I don't like to dance. <EOS>
+<BOS> Right. <EOS>
+<BOS> I would like to learn how to line dance, and I do like country music but I haven't been officially taught how to line dance. <EOS>
+<BOS> No. <EOS>
+<BOS> No, I'm not a good singer but I do enjoy going to Karaoke. <EOS>
+<BOS> In Hawaii, when I go to Karaoke I enjoy singing Hawaiian music. If I'm in Japan I like to sing other English songs that they have, usually country music or 80's or 90's music. <EOS>
+<BOS> I don't know if I'm a good student. Growing up I was not a good student but now I am trying harder to be a good student. <EOS>
+<BOS> I didn't enjoy going to school and I didn't try very hard in school. Now I try a little harder. I make an effort.  <EOS>
+<BOS> I try to listen to the teachers now instead of doing my own thing, and I try to complete everything with good quality. <EOS>
+<BOS> Growing up I was a good athlete. I played a few sports. Now I don't play any sports anymore because I'm old, but growing up I think I was a good athlete. <EOS>
+<BOS> I played American football, baseball, and soccer. <EOS>
+<BOS> I would say football. American football is my best sport. <EOS>
+<BOS> I played since I was eleven until age twenty-two. <EOS>
+<BOS> I played at the University of Hawaii. <EOS>
+<BOS> OK. Why? <EOS>
+<BOS> That's true. Now, you grew up in Southern California. What was it like growing up on the beach in the summer? <EOS>
+<BOS> Did you learn how to surf? <EOS>
+<BOS> Oh, really. Even in winter it's too cold, the water. <EOS>
+<BOS> OK, where would this house be? <EOS>
+<BOS> OK. Would yo buy a house in the city or the country? <EOS>
+<BOS> So, it'd be in Japan.? <EOS>
+<BOS> OK, would you have animals at this house? <EOS>
+<BOS> Really. No dog? <EOS>
+<BOS> You got to have a dog, man. <EOS>
+<BOS> Do you have a driver's license? <EOS>
+<BOS> OK. So, how long have you had your driver's license?  <EOS>
+<BOS> OK. How do you get a driver's license in your country?  <EOS>
+<BOS> OK. Did you get a perfect score on your driving test? <EOS>
+<BOS> Do all the members of your family drive?  <EOS>
+<BOS> So, what did you study in high school?  <EOS>
+<BOS> Oh, really! <EOS>
+<BOS> Oh, really. Well, that's kind of similar. <EOS>
+<BOS> OK, what did you do in high school? Any clubs or anything? <EOS>
+<BOS> Wow, you're quite athletic. What sport did you like the most? <EOS>
+<BOS> Really! <EOS>
+<BOS> Do you think you'll pick it up some time in the future? <EOS>
+<BOS> Yeah! Not too many lakes in Tokyo. Um, anything esle? Any other memories about high school? <EOS>
+<BOS> Sounds like a good time. <EOS>
+<BOS> And who is the best player in the world? Cricket player? <EOS>
+<BOS> Oh, and he's from India?  <EOS>
+<BOS> OK, is he from the south of India or? <EOS>
+<BOS> He's from north India. And he's a very good batter? <EOS>
+<BOS> Batsman <EOS>
+<BOS> How many times do you get to try to hit the ball? <EOS>
+<BOS> Oh, really but you only get one time. Like in baseball you bat and another person bats <EOS>
+<BOS> Oh, really,  <EOS>
+<BOS> Wow and do you play cricket with your friends? <EOS>
+<BOS> You said this guys name, what's it, I'm sorry? <EOS>
+<BOS> Wow! I don't know him. See I like baseball. Do you know who Barry Bonds is? <EOS>
+<BOS> Well, that's OK. You teach me about cricket and I'll teach you about baseball. <EOS>
+<BOS> We start school at 8 <EOS>
+<BOS> We go back. <EOS>
+<BOS> Yes, because in Mongolia we have two parts. In the morning, the high school students go to the school and from 1 <EOS>
+<BOS> Yes.  <EOS>
+<BOS> Yes. <EOS>
+<BOS> Yeah. <EOS>
+<BOS> In Mongolia, the mother and father they usually work and when I finish my school I just go back and make my own food, because in Mongolia mothers work is not to, like, stay at home or do housework. Kids are taught to clean up the home and cook their food and wash their clothes and that's your work and usually the mothers don't do that kind of thing.  <EOS>
+<BOS> Yes. <EOS>
+<BOS> It really depends on the school but for me, like, I was studying in an international school so I had to study quite hard to get the level still. So for me, I studied after school...I'd rather study at night, so I studied like 3 or 4 hours at night. So that's my study habit.  <EOS>
+<BOS> Not really compared to other students.  <EOS>
+<BOS> So can you tell me more about the weather? It's always sunny? It never rains? <EOS>
+<BOS> That's nice. Can you tell me more about the beach?  <EOS>
+<BOS> Can you tell me maybe about the nature in Hawaii? <EOS>
+<BOS> What's a wallaby? <EOS>
+<BOS> What do they look like?  <EOS>
+<BOS> Interesting. Any other interesting animals in Hawaii? <EOS>
+<BOS> Are there any animals that live in the sea?  <EOS>
+<BOS> Are there any whales?  <EOS>
+<BOS> Wow, there are a lot of animals that live in Hawaii. Sounds like a great place to visit.  <EOS>
+<BOS> I like to know what's going on in the world, so I usually watch CNN or BBC. <EOS>
+<BOS> Usually, yes. <EOS>
+<BOS> Yeah. <EOS>
+<BOS> I don't go to the movies very often, maybe twice a year, I would say. <EOS>
+<BOS> Yeah. <EOS>
+<BOS> I rent movies more than I go to the cinema, but also not very often. <EOS>
+<BOS> I like funny movies. Comedies. <EOS>
+<BOS> I watched Home Alone last night but it was on TV. I didn't rent the movie. <EOS>
+<BOS> I don't like reading, so I don't read books very often. The only time I do read books is for school purposes. <EOS>
+<BOS> Well, my major is International Relations, so usually I read International Relations books, if I have to read. <EOS>
+<BOS> Not for entertainment. <EOS>
+<BOS> No. I try to watch the movies on the airplane. <EOS>
+<BOS> I go to concerts once in awhile. In Hawaii, there aren't many concerts so when they're are concerts, I try to go. <EOS>
+<BOS> I like Hawaiian music so I go to Hawaiian concerts, and if a big star from America comes, I usually try to go also. <EOS>
+<BOS> Right, music concerts. <EOS>
+<BOS> You're welcome. <EOS>
+<BOS> So, do you read a lot? <EOS>
+<BOS> Ah, you're the man. <EOS>
+<BOS> Wow, how many books do you get through a week? <EOS>
+<BOS> Oh, that's pretty good. <EOS>
+<BOS> Yeah, I hear you. It rots your mind, I think. Ah, also, what kind of books you like to read? What kind of genres? <EOS>
+<BOS> Cool, so actually, when you read, like where do you normally read? <EOS>
+<BOS> That's cool. I love to read on the trains.  <EOS>
+<BOS> Must be pretty competitive. <EOS>
+<BOS> How about when you were a child, what was your dream job? Did you want to be a diplomat when you were say, 10? <EOS>
+<BOS> I wanted to be a baseball player. <EOS>
+<BOS> I'm still dreaming. <EOS>
+<BOS> Traditional Hawaiian food is usually cooked under the ground in a hole with hot rocks and it cooks for maybe six hours or seven hours and when you take it out, it's very salty because we use a lot of salt and it tastes really good ... usually meat ... usually pork and other vegetables like taro and potato.  <EOS>
+<BOS> My favorite Hawaiian dish is called Lao-Lao. It's pork or fish wrapped in leaves and put inside the underground oven and it's very salty and very good. <EOS>
+<BOS> The flavor is salt and also the leaf flavor that it's wrapped in. <EOS>
+<BOS> My favorite dessert has to be cake and ice-cream together. I love to eat cake and ice-cream together. <EOS>
+<BOS> My favorite ice-cream flavor is strawberry, and I like to eat that with chocolate cake. <EOS>
+<BOS> Not so much. I don't like to eat vegetables but I can eat them if somebody cooks them for me. <EOS>
+<BOS> My favorite vegetable ... I don't have a favorite vegetable but I can eat vegetables like asparagus, broccoli, carrots. Those types of things. <EOS>
+<BOS> I prefer them cooked. <EOS>
+<BOS> You're welcome. <EOS>
+<BOS> OK. When do you usually get home at night? <EOS>
+<BOS> OK. How do you go home? Do you drive or take the train? <EOS>
+<BOS> OK. And when do you go to bed? <EOS>
+<BOS> At midnight. That's pretty late. <EOS>
+<BOS> OK. When do you wake up the next day? <EOS>
+<BOS> Man, you're a strong guy! Um..how often do you look at the stars? <EOS>
+<BOS> The moon. OK! Can you see the stars from your house? <EOS>
+<BOS> OK. And do you prefer the morning or the evening? <EOS>
+<BOS> Oh, me, too. I'm the same. Last question, can you stay up all night? <EOS>
+<BOS> OK. Yeah, me too. All right, thanks Trevor. <EOS>
+<BOS> OK. So what is Manicotti?  <EOS>
+<BOS> So how do you make it? <EOS>
+<BOS> Yeah! <EOS>
+<BOS> That sounds really good. How often do you make manicotti? <EOS>
+<BOS> What is the secret to good manicotti? <EOS>
+<BOS> OK. Well I'll remember that. Thanks a lot Jessica. <EOS>
+<BOS> Yes, because in the fall we have a celebration called Naadam and that's the best time to go. And you get to see horse racing and archery and wrestling and so many tourist come to Mongolia at that time.  <EOS>
+<BOS> Well I would say khuushuur.  <EOS>
+<BOS> Yes. Everyone loves it. And for me, I love it too. It looks like dumpling but fried and it's more bigger and inside is meat.  <EOS>
+<BOS> Yes.  <EOS>
+<BOS> It's a flour, yeah. <EOS>
+<BOS> Yes <EOS>
+<BOS> Beef.  <EOS>
+<BOS> We don't really eat chicken and we don't eat fish. Well, we have a river fish. It's like really delicious but then we don't have sea so seafood is not popular at all.  <EOS>
+<BOS> Yes.  <EOS>
+<BOS> Probably, it's better to go to the countryside because if you go to Ulan Bator it's just the same as other cities around the world. But the countryside is a whole different world. <EOS>
+<BOS> Well, in the department stores they have sections for Mongolian traditional gifts and stuff so probably you can get the tent -- a small tent. <EOS>
+<BOS> Yeah, and then if you open the door you can actually see all the furniture is inside it. So it's kind of interesting.  <EOS>
+<BOS> Yes. <EOS>
+<BOS> What do you read usually? <EOS>
+<BOS> OK. What are you reading now? <EOS>
+<BOS> Oh, OK. It looks like a pretty good book. What is it about? <EOS>
+<BOS> OK. When do you read? When do you find time to read? <EOS>
+<BOS> OK. What is your favorite author? <EOS>
+<BOS> Yeah. it's kind of hard to pick. <EOS>
+<BOS> Yeah, why is that? <EOS>
+<BOS> OK. What is your least favorite season? <EOS>
+<BOS> OK. What season are we in right now? <EOS>
+<BOS> What's the weather like today? <EOS>
+<BOS> OK, which one do you prefer? <EOS>
+<BOS> OK. What do you like to take photos of? <EOS>
+<BOS> Now you mean your family or strangers? <EOS>
+<BOS> Oh, OK. Do you mind being photographed? <EOS>
+<BOS> OK. Do you smile when people take your picture? <EOS>
+<BOS> A silly face! OK. Um..what kind of pictures do you like to look at? <EOS>
+<BOS> Cityscapes! <EOS>
+<BOS> OK. Great! And do you have pictures of yourself as a child? <EOS>
+<BOS> OK. Do you have any pictures of your family in your wallet? <EOS>
+<BOS> Oh, Wow! Wow, that's nice! OK. Thanks, Trevor. <EOS>
+<BOS> Sophie Wilkins. Sophie, where are you from? <EOS>
+<BOS> Oh, nice. Adelaide. What's Adelaide like? <EOS>
+<BOS> OK. Is it like over a million people or? <EOS>
+<BOS> Oh, that's pretty big. Nice. How long have you lived there? <EOS>
+<BOS> Six years! <EOS>
+<BOS> Oh, nice. Farmer girl.  <EOS>
+<BOS> OK. Great, so after Japan are you going to go back to Australia? <EOS>
+<BOS> OK. Great. Thanks. <EOS>
+<BOS> Yes. <EOS>
+<BOS> OK, the first thing is you can go and see the ancient things that all the Kings and Queens built, like castles. We have a castle called... it's called the Rock Castle. It's called Sigirya, so it's very beautiful. <EOS>
+<BOS> Yeah, it's... the castle is on the rock itself, so you can see the ruins there. It's really beautiful, with pictures, paintings, arts and stuff. <EOS>
+<BOS> I'm not sure, but maybe around two thousand. I'm not sure. Sorry. <EOS>
+<BOS> The second thing should be beaches. We have beautiful beaches all over the place, blue, clean. You can swim. You can surf. It's very beautiful. That's the second thing. <EOS>
+<BOS> M-hm. I mean, not popular amongst Sri Lankans but most of the... many tourists come, especially the Germans, they come to my country and surf because the hotels near the beaches are very cheap and it's very beautiful hotels and very cheap. Food is cheap. It's nice. <EOS>
+<BOS> And then a third thing should be the Tooth Temple. It's like the tooth of a Buddha, so we got it from I guess India, King Ashoka, so it's one of the things that you can see there. It's a really beautiful temple. <EOS>
+<BOS> Temple of Tooth Relic. <EOS>
+<BOS> Yeah. <EOS>
+<BOS> Oh, really. OK. What radio station? <EOS>
+<BOS> OK. And what internet websites do you listen to? <EOS>
+<BOS> OK. How much of the news do you think is true? <EOS>
+<BOS> Yeah. How do most people in your country get the news? <EOS>
+<BOS> OK. Thanks Keri. <EOS>
+<BOS> Oh, that's wonderful. So how many of your family member will be there? <EOS>
+<BOS> OK. What kind of bread do you eat? <EOS>
+<BOS> OK. What do you like to put on bread? <EOS>
+<BOS> OK. But not together? <EOS>
+<BOS> Do you like mustard? <EOS>
+<BOS> Oh, I love mustard. I eat mustard and bread just plain. <EOS>
+<BOS> OK. Can you make bread? <EOS>
+<BOS> Really. <EOS>
+<BOS> That's incredible. <EOS>
+<BOS> What do you like to make when you cook? <EOS>
+<BOS> I love salad. OK, can you sing? <EOS>
+<BOS> Oh, really, you sing in the shower? Nice, what, what songs do you sing? Like pop songs or just...? <EOS>
+<BOS> Wow! Can you play any musical instruments? <EOS>
+<BOS> Yeah, yeah. Where did you learn that? <EOS>
+<BOS> Really. OK. Is it popular in switzerland? <EOS>
+<BOS> Wow. How long have you played? <EOS>
+<BOS> Nanju. Nanju, how do you spell you name? <EOS>
+<BOS> Oh, OK. That's a nice name. Nanju. And where are you from? <EOS>
+<BOS> Madras! <EOS>
+<BOS> Madras. What part of India? <EOS>
+<BOS> South India.  <EOS>
+<BOS> And how long have you been in Japan? <EOS>
+<BOS> OK, and what do you do in Japan? <EOS>
+<BOS> Software engineer. Oh, you can help me with my computer. <EOS>
+<BOS> Were you always good at computers when you were young? <EOS>
+<BOS> 14. What was his name? <EOS>
+<BOS> Murray. Wow. And did you meet him through school? <EOS>
+<BOS> OK, so how did you meet him? <EOS>
+<BOS> OK. So now what, so did you actually go on dates with him when you were 14? <EOS>
+<BOS> Wow. Where did you go?  <EOS>
+<BOS> Oh, cool. So were your parents cool with you having a boyfriend? <EOS>
+<BOS> Yeah, and they, Wow, that's really good, cause a lot of times parents aren't very cool with... <EOS>
+<BOS> How long did you go out? <EOS>
+<BOS> So it finished when you were 17? <EOS>
+<BOS> Do you still keep in touch with him? <EOS>
+<BOS> Really, Wow! <EOS>
+<BOS> Oh, that's good.  <EOS>
+<BOS> Oh, that's cool. Wonderful. <EOS>
+<BOS> OK, how often do you eat apples? <EOS>
+<BOS> Once a week. How much is an apple in Japan? <EOS>
+<BOS> Uh-huh. <EOS>
+<BOS> Uh-huh. <EOS>
+<BOS> Yeah, like right now..how much does an apple cost? <EOS>
+<BOS> Really! Yeah..that's that's kind of expensive. <EOS>
+<BOS> Aomori! Really! <EOS>
+<BOS> OK. Oh..alright. And what colors are apples? <EOS>
+<BOS> OK. Which color is your favorite? <EOS>
+<BOS> I don't know. I just..in America we have sour green apples. <EOS>
+<BOS> Yeah, like the red apples are sweet..and the green apples in America..they're very sour. <EOS>
+<BOS> Apple tea. <EOS>
+<BOS> Yeah. Man, me neither. <EOS>
+<BOS> Thanks <EOS>
+<BOS> Wow, that sounds pretty good. <EOS>
+<BOS> Alright, thanks. I'm gonna give that a try.  <EOS>
+<BOS> Do you have a favorite TV show? <EOS>
+<BOS> OK. How often do you go to the movies? <EOS>
+<BOS> And other than that do you rent movies? <EOS>
+<BOS> What is your favorite movie you've watch recently? <EOS>
+<BOS> And that's a romantic comedy? <EOS>
+<BOS> Interesting. What about reading? Do you like to read books? <EOS>
+<BOS> What kind of books? <EOS>
+<BOS> And what about concerts? Do you enjoy going to concerts? <EOS>
+<BOS> Nice talking with you Mari. <EOS>
+<BOS> Yeah. <EOS>
+<BOS> Uh-huh, so your parents listen to it? <EOS>
+<BOS> Oh, awesome, and so do you like have a favorite song or? <EOS>
+<BOS> Yeah, right, right, cool. <EOS>
+<BOS> And do you have a favorite Beatle? <EOS>
+<BOS> Do you like his individual work? <EOS>
+<BOS> Yeah, I agree. What is small? <EOS>
+<BOS> That's true. How much do you weigh? <EOS>
+<BOS> Wow! 65 kilograms. <EOS>
+<BOS> Yeah, pretty much anywhere. Ooh..loud motorcycle. Sorry! What is small? I mean..I'm sorry..what is cheap? <EOS>
+<BOS> Yeah. What can you buy at a 100 Yen shop? <EOS>
+<BOS> Yeah. <EOS>
+<BOS> Do you think 100 Yen shops are a good idea, or do you think they're environmentally a bad idea? <EOS>
+<BOS> Yeah. The cheap stuff. Actually. I do to. It's nice. Alright. Thanks a lot. <EOS>
+<BOS> What's your favorite color?  <EOS>
+<BOS> Green. <EOS>
+<BOS> Orange! <EOS>
+<BOS> Yeah, have you had any of the oranges in Japan? <EOS>
+<BOS> Oh, really. OK. Um, what's your favorite season? <EOS>
+<BOS> OK. what's your favorite movie? <EOS>
+<BOS> Good. Marika do you like summer? <EOS>
+<BOS> Wow, why? <EOS>
+<BOS> OK. Well, it's pretty hot in Japan so you must not like summer here. <EOS>
+<BOS> Is it hot in summer where you're from? <EOS>
+<BOS> Oh, that's nice. Where are you from by the way? <EOS>
+<BOS> OK. Well, what do you do in the winter? <EOS>
+<BOS> Yeah. <EOS>
+<BOS> Black! Really, OK, and what is your favorite fruit? <EOS>
+<BOS> Oh, mango.  <EOS>
+<BOS> Really.  <EOS>
+<BOS> Oh, wow. So how do you eat mango, just do you eat it raw, or do you? <EOS>
+<BOS> Oh, cool. Nice. So do you have like mango juice? Is that popular? <EOS>
+<BOS> Yeah, yeah. <EOS>
+<BOS> Oh, no. That's terrible. Are you taking anything for it? <EOS>
+<BOS> How did it taste? <EOS>
+<BOS> Oh, no. <EOS>
+<BOS> Yeah, that stuff tastes terrible. <EOS>
+<BOS> Swedish Bubblegum Punk Band. What exactly is that? <EOS>
+<BOS> OK. What do you play in your band? <EOS>
+<BOS> OK. How long have you been playing the guitar? <EOS>
+<BOS> Oh, really! OK. Nice. Do you play any other instruments? <EOS>
+<BOS> Since you're in a band do you meet lots of women? <EOS>
+<BOS> OK. What the best thing about being a musician, in the band? <EOS>
+<BOS> Is it your full-time job? <EOS>
+<BOS> Oh, OK.  <EOS>
+<BOS> Really! <EOS>
+<BOS> OK, are you afraid of snakes? <EOS>
+<BOS> So, you're not afraid of cobras?  <EOS>
+<BOS> Really! <EOS>
+<BOS> And your not afraid? <EOS>
+<BOS> So you get a stick and you go and kill it? <EOS>
+<BOS> Sin. It's a sin. Oh, wow. <EOS>
+<BOS> Wow, very fascinating. Thank you. <EOS>
+<BOS> Mathew, where are you from? <EOS>
+<BOS> Were you living in Manchester before you can to Japan?  <EOS>
+<BOS> Wow, world traveler. <EOS>
+<BOS> Tell us about Manchester. What is Manchester like? <EOS>
+<BOS> Oh, that's great. I love the Smiths, actually. Do you like Manchester? <EOS>
+<BOS> I'd love to live there in the future. It's a great city. <EOS>
+<BOS> What's the reasoning behind the tattoo? Why did you get it? <EOS>
+<BOS> So, you drew the tattoo. <EOS>
+<BOS> Did it hurt when it was being sketched in your body? <EOS>
+<BOS> Why is the chest the worst place? <EOS>
+<BOS> Thailand. Why Thailand? <EOS>
+<BOS> OK, and how would you get there? <EOS>
+<BOS> OK, how long would it take to get there? <EOS>
+<BOS> 7 hours , that's not too bad. What would you eat in Thailand? <EOS>
+<BOS> OK, is it spicy? <EOS>
+<BOS> Really. OK, how long would you stay? <EOS>
+<BOS> OK, Yeah. So. <EOS>
+<BOS> OK, Thailand has nice beaches and nice mountains. Which do you prefer the beaches or the moutains? <EOS>
+<BOS> The beach. <EOS>
+<BOS> OK, yeah, yeah. I miss the beach. I'm from California, we have nice beaches. <EOS>
+<BOS> OK. Why do you love the beach? <EOS>
+<BOS> Oh..nice. How often do you go surfing? <EOS>
+<BOS> OK. When do you go to the beach? Saturday? Sunday? <EOS>
+<BOS> OK. What do you do at the beach besides surfing? <EOS>
+<BOS> OK. <EOS>
+<BOS> How long have you been surfing? <EOS>
+<BOS> Wow, since you were ten. That's great! -- What do you take to the beach, when you go? <EOS>
+<BOS> OK. Now, you are from Australia. How are the beaches  different in Australia than Japan? <EOS>
+<BOS> OK. Well, sounds good. Thanks a lot Trevor. <EOS>
+<BOS> Outside? <EOS>
+<BOS> OK, well what do you do everyday at the fish market? <EOS>
+<BOS> Wow, what time do you start work? <EOS>
+<BOS> 4 <EOS>
+<BOS> OK. Thanks, Daisuke. <EOS>
+<BOS> Cookies and brownies and cake. <EOS>
+<BOS> I am terrible at singing. I don't like going to karaoke and I don't like to sing. I like music, but I can't sing for my life. I, yesterday, or I guess in class it was a students birthday and I made my students sing Happy Birthday but they wouldn't start so I had to start them off singing and my voice was so bad, they started laughing at me, so I'm just a terrible singer. <EOS>
+<BOS> No, I'm not a good dancer. I can't dance at all. I used to when I was younger, my parents would enroll me in ballet classes, so I did ballet for six years but I am not very good at dancing. <EOS>
+<BOS> I was a good student because I'm a dork. No, yeah, I think I was a good student. I tried hard in all of my classes. I always did my homework. I was always focused and took notes during class. If I didn't understand something, I would either ask questions in class or speak to the teacher or professor after class.  <EOS>
+<BOS> That's a tricky question. I like sports, and I like playing sports. I don't think I'm a very good athlete, probably compared to you, I'm probably not, but I really enjoy playing sports. In high school, I played soccer. I ran cross-country. I played ice-hockey and a little bit of lacrosse. <EOS>
+<BOS> My favorite sport was ice-hockey. <EOS>
 <BOS> I need to mail this package to Italy. <EOS>
 <BOS> Some toys and baby clothes. <EOS>
 <BOS> No. <EOS>
@@ -1023,3 +1435,154 @@
 <BOS> I need to take break. I've been studying all day. <EOS>
 <BOS> Can we get ice cream on the way home? <EOS>
 <BOS> I've studied enough. I'm ready for my math test. <EOS>
+<BOS> What is in the package? <EOS>
+<BOS> Are there any breakables? Is it fragile? <EOS>
+<BOS> Please fill out this form. Print clearly. Sometimes, it is hard to read. <EOS>
+<BOS> It depends on your shipping choice. <EOS>
+<BOS> It will be there in one week. <EOS>
+<BOS> This is the cost. How would you like to pay? <EOS>
+<BOS> Ok. Is there anything else I can help you with today? <EOS>
+<BOS> Thank you. Have a nice day. <EOS>
+<BOS> Is something wrong? <EOS>
+<BOS> Oh dear. I'm sorry to hear that. Was he seriously injured? <EOS>
+<BOS> That's awful! <EOS>
+<BOS> How scary for him. <EOS>
+<BOS> That's terrible! <EOS>
+<BOS> You're right! Did they catch the other driver? Was he or she injured? <EOS>
+<BOS> Do you think he will go to jail? <EOS>
+<BOS> Can I help you with anything? <EOS>
+<BOS> Of course. Please let me know if there is anything else I can help you with. <EOS>
+<BOS> I'm not sure. I think there is a problem with my transmission. <EOS>
+<BOS> I know. I took it to an auto shop yesterday and it was so expensive. I'm looking for someone cheaper, but who can also do a good job. <EOS>
+<BOS> Is he close to us? <EOS>
+<BOS> That's good. I hope I don't have to replace the transmission. That will be really expensive. <EOS>
+<BOS> That's crazy! If my repair costs too much, I'm just going to buy a new car. <EOS>
+<BOS> No. I would have to buy a used car. <EOS>
+<BOS> Thanks. <EOS>
+<BOS> If it's only a few blocks away, I'll walk. If my car is too expensive to fix, I better get used to walking. <EOS>
+<BOS> Will this be your first visit? <EOS>
+<BOS> Oh. You will like Dr. Smith. He is very gentle. <EOS>
+<BOS> Is there anything wrong with your teeth? <EOS>
+<BOS> We have an opening tomorrow morning at 9 am. <EOS>
+<BOS> We are very busy this afternoon, but I can squeeze you in around 4 pm. Does that work for you? <EOS>
+<BOS> Do you have dental insurance? <EOS>
+<BOS> Ok. Please come 15 minutes early to fill out some forms. <EOS>
+<BOS> You're welcome. We'll see you soon. <EOS>
+<BOS> I need to go too. But my car is at the repair shop. <EOS>
+<BOS> Nothing serious. Just an oil change. <EOS>
+<BOS> Sure. Which one are you going to? <EOS>
+<BOS> Let me check my purse and see if I have any coupons too. <EOS>
+<BOS> I know. I use their coupons all the time. <EOS>
+<BOS> No. I think I used them all. Where did you get your coupons? <EOS>
+<BOS> No, not yet. I'll go do that right now. What time are you leaving? <EOS>
+<BOS> Thanks. I'll be right back. <EOS>
+<BOS> I need to go too, but I'm so lazy now. <EOS>
+<BOS> I need to lose some weight too. I gained around 20 pounds this year. <EOS>
+<BOS> What time do you go in the morning? <EOS>
+<BOS> 5 am? That's too early. <EOS>
+<BOS> I'm asleep at 5 am. <EOS>
+<BOS> I hate running. <EOS>
+<BOS> I don't have the strength to lift weights. <EOS>
+<BOS> That's too much jumping around? <EOS>
+<BOS> Which one? <EOS>
+<BOS> Today is a good day to go. There are a lot of items on sale. <EOS>
+<BOS> The market is going out of business? <EOS>
+<BOS> Me too. But more people are going to the bigger market a few blocks away. <EOS>
+<BOS> I know. But it has a bigger selection of things. <EOS>
+<BOS> Well, you better leave soon. There were a lot of people today because of the big sale. <EOS>
+<BOS> I was checking my post office box, but my key won't work. <EOS>
+<BOS> I think they canceled my account because I forgot to pay. <EOS>
+<BOS> Yeah. I use it for my business. <EOS>
+<BOS> I've been here since 8 am. <EOS>
+<BOS> I know. It's been a long wait. <EOS>
+<BOS> Many people left. They were tired of waiting. <EOS>
+<BOS> I'm going to wait. I need to re-open my account. <EOS>
+<BOS> Ok. See you another time. <EOS>
+<BOS> Was anyone hurt? <EOS>
+<BOS> That's terrible. <EOS>
+<BOS> That's scary. Do you know what caused the accident? <EOS>
+<BOS> You should've called me. We were supposed to meet Cathy and Rick for dinner at 6 pm. <EOS>
+<BOS> That was smart. <EOS>
+<BOS> Oh no! <EOS>
+<BOS> I just got a text from Cathy. She said she and Rick were in an accident on the freeway! They're at the hospital. <EOS>
+<BOS> That's a great idea. <EOS>
+<BOS> We did that with our kids too. Is he excited about it? <EOS>
+<BOS> Well, it's his first paycheck, so I'm sure he wants to spend his own money. <EOS>
+<BOS> Yeah, I totally understand. My first son spent his whole paycheck each time. Now he doesn't have anything saved. My second son saves and saves. <EOS>
+<BOS> Now my older son always borrows money from his younger brother. <EOS>
+<BOS> Yeah, but he adds on interest. <EOS>
+<BOS> He wants to be a banker one day. <EOS>
+<BOS> Yeah, but not a great relationship with his brother. <EOS>
+<BOS> Do you need to go to the post office? <EOS>
+<BOS> Where are you sending your package? <EOS>
+<BOS> Is it a big package? <EOS>
+<BOS> That's nice. <EOS>
+<BOS> I think so. Today is Monday. Most people go on Monday since the post office is closed on Sunday. <EOS>
+<BOS> I think that's a better idea. <EOS>
+<BOS> Me too. <EOS>
+<BOS> Sure. <EOS>
+<BOS> You have a dentist appointment. <EOS>
+<BOS> It's just a check-up. <EOS>
+<BOS> That is because you had a cavity. <EOS>
+<BOS> I know, but you eat too much candy. <EOS>
+<BOS> Me too. <EOS>
+<BOS> 2 o'clock. <EOS>
+<BOS> I will also call the school office. <EOS>
+<BOS> I wish I could ride the bus, but I would have to take three buses to get to work. <EOS>
+<BOS> You're lucky! <EOS>
+<BOS> No, I'm not very good at cycling and it's too far. <EOS>
+<BOS> That's a good idea. Then we could share the cost of gas and ride in the carpool lane. <EOS>
+<BOS> Yeah, my boss. <EOS>
+<BOS> No, not really. I think I'd rather pay more for gas. <EOS>
+<BOS> He's a little nervous. <EOS>
+<BOS> I told him that. He just wants to pass the test, so he can start driving to school. <EOS>
+<BOS> No, he has to share with my wife. <EOS>
+<BOS> No, not yet. First, he has to show us that he is a responsible driver. <EOS>
+<BOS> Yes! Our insurance rate doubled. <EOS>
+<BOS> Yes, that's what makes me nervous. I don't know how we'll be able to afford insurance when my younger son starts to drive. <EOS>
+<BOS> In two years. <EOS>
+<BOS> I think I like the part-time job idea better. <EOS>
+<BOS> I'm here for a procedure. <EOS>
+<BOS> A root canal. <EOS>
+<BOS> Yeah. I didn't take care of a tooth and now it's infected. <EOS>
+<BOS> A little. I took some medicine this morning. <EOS>
+<BOS> I don't have dental insurance, so it's going to be very expensive. <EOS>
+<BOS> I didn't think it was important. <EOS>
+<BOS> Yeah. And it's important to take care of your teeth. <EOS>
+<BOS> Under his bed? <EOS>
+<BOS> How did you find them? <EOS>
+<BOS> How late are they? <EOS>
+<BOS> Didn't you receive notices before? <EOS>
+<BOS> Why didn't he return them? <EOS>
+<BOS> Is he in trouble? <EOS>
+<BOS> That's five weeks. <EOS>
+<BOS> Again? What's wrong with it this time? <EOS>
+<BOS> That's weird. It's not even an old car. <EOS>
+<BOS> He doesn't know? What is he doing then? <EOS>
+<BOS> You should take it to another mechanic. <EOS>
+<BOS> He doesn't sound very trustworthy. <EOS>
+<BOS> Maybe too cheap isn't always better. <EOS>
+<BOS> You should demand a refund. <EOS>
+<BOS> Why is it complicated? <EOS>
+<BOS> Where is your car? <EOS>
+<BOS> Are you ok? <EOS>
+<BOS> That's good. When do you get your car back? <EOS>
+<BOS> That's quick. <EOS>
+<BOS> Do they do a good job? Are they reasonably priced? <EOS>
+<BOS> I may have to get their name and number. My car needs some regular maintenance work. <EOS>
+<BOS> Really? That's good to know. <EOS>
+<BOS> Thanks. I'll check it out tonight. <EOS>
+<BOS> I've started to leave work late just to beat rush hour traffic. <EOS>
+<BOS> Oh, I see. What time does the daycare close? <EOS>
+<BOS> What time do you usually get there? <EOS>
+<BOS> What happens if you're late? <EOS>
+<BOS> Have you ever been late? <EOS>
+<BOS> Yeah, I'm sure it is. Do you have other people who can help you? <EOS>
+<BOS> Is your boss understanding? <EOS>
+<BOS> Sure. What kind of snacks? <EOS>
+<BOS> Ok. I will pick up some fruits too. <EOS>
+<BOS> Fruits are healthy for you. <EOS>
+<BOS> Are you done with your homework? <EOS>
+<BOS> Then you should stay home and study. <EOS>
+<BOS> Ok. We will only be gone for about an hour. <EOS>
+<BOS> I thought you needed to study. <EOS>
