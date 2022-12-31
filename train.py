@@ -11,9 +11,10 @@ import pickle
 import contractions
 
 embedding_size = 50
+dropout = 0
 learning_rate = 0.02
 batch_size=128
-epochs = 2
+epochs = 100
 
 root_dir = Path(__file__).parent.absolute()
 data_dir = os.path.join(root_dir, 'prepared_data')

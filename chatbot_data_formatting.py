@@ -11,15 +11,13 @@ import pickle
 import json
 
 root_dir = Path(__file__).parent.absolute()
-
-# first prepare the WikiQA data
-data_dir = os.path.join(root_dir, 'WikiQACorpus')
-print(data_dir)
-questions = []
-answers = []
-filename= 'WikiQA-train.txt'
 questions=[]
 answers=[]
+
+# first prepare the WikiQA data
+""" data_dir = os.path.join(root_dir, 'WikiQACorpus')
+print(data_dir)
+filename= 'WikiQA-train.txt'
 with open(os.path.join(data_dir,filename), 'r', encoding='utf-8') as file:
     for line in file:
         data = line.split('\t')
@@ -28,7 +26,7 @@ with open(os.path.join(data_dir,filename), 'r', encoding='utf-8') as file:
             continue
         else:
             questions.append(question)
-            answers.append(answer)
+            answers.append(answer) """
 
 # prepare the chatbot data
 data_dir = os.path.join(root_dir, 'chatbot_data')
@@ -49,8 +47,55 @@ for filename in os.listdir(data_dir):
                 questions.append(question)
                 answers.append(answer)
 
+# Prepare the convo data                
+data_dir = os.path.join(root_dir, 'convo_data/convo1')
+for filename in os.listdir(data_dir):
+    path = os.path.join(data_dir, filename)
+    print(path)
+    with open(path, 'r', encoding='utf-8') as file:
+        i=0
+        for line in file:
+            split = line.split(':')
+            if len(split)>1:
+                sentence = split[1].rstrip('\n')
+                sentence = sentence.lstrip(' ')
+                if sentence.startswith('"') and sentence.endswith('"'):
+                    sentence = sentence[1:-1]
+                if i%2 == 0:
+                    #print('q) {0}'.format(split[1]))
+                    questions.append(sentence)
+                else:
+                    #print('a) {0}'.format(split[1]))
+                    answers.append(sentence)
+                i+=1
+        if i%2==1:
+            questions.pop(-1)
+            
+data_dir = os.path.join(root_dir, 'convo_data/convo2')
+for filename in os.listdir(data_dir):
+    path = os.path.join(data_dir, filename)
+    print(path)
+    with open(path, 'r', encoding='utf-8') as file:
+        i=0
+        for line in file:
+            split = line.split(':')
+            if len(split)>1:
+                sentence = split[1].rstrip('\n')
+                sentence = sentence.lstrip(' ')
+                if sentence.startswith('"') and sentence.endswith('"'):
+                    sentence = sentence[1:-1]
+                if i%2 == 0:
+                    #print('q) {0}'.format(split[1]))
+                    questions.append(sentence)
+                else:
+                    #print('a) {0}'.format(split[1]))
+                    answers.append(sentence)
+                i+=1
+        if i%2==1:
+            questions.pop(-1)
+
 # prepare squad data set
-data_dir = os.path.join(root_dir, 'squad_data/train-v2.0.json')
+""" data_dir = os.path.join(root_dir, 'squad_data/train-v2.0.json')
 with open(data_dir, 'r', encoding='utf-8') as file:
     data = json.load(file)
 for entry in data['data']:
@@ -58,7 +103,7 @@ for entry in data['data']:
         for qas in paragraph['qas']:
             if qas['question'] and qas['answers']:
                 questions.append(qas['question'])
-                answers.append(qas['answers'][0]['text'])
+                answers.append(qas['answers'][0]['text']) """
 
 # prepare the convai3d data
 """ 
@@ -87,13 +132,25 @@ for conv in data:
                 dialogue.pop(0)
  """
 answers_with_tags = []
+questions_with_tags = []
 for i in range(len(answers)):
     if type(answers[i]) == str:
         answers_with_tags.append(answers[i])
+        questions_with_tags.append(questions[i])
     else:
-        questions.pop(i)
+        print(questions[i])
+        print(answers[i])
+        print(' ')
 
-answers = ['<BOS> ' + answer + ' <EOS>' for answer in answers_with_tags]
+
+questions = []
+answers = []
+# remove questions of 1 token or less
+for i in range(len(questions_with_tags)):
+    if len(questions_with_tags[i].split())>1:
+        questions.append(questions_with_tags[i])
+        answers.append('<BOS> ' + answers_with_tags[i] + ' <EOS>')
+        
 
 # save prepared data into text files
 data_dir = os.path.join(root_dir, 'prepared_data')

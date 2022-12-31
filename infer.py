@@ -11,11 +11,11 @@ import pickle
 import contractions
 
 def load_model(embedding_size):
-    with open('tokenizer.pkl', 'rb') as file:
+    with open('tokenizer{0}.pkl'.format(embedding_size), 'rb') as file:
         tokenizer = pickle.load(file)
     max_vocab = len(tokenizer.word_index) + 1
 
-    model = tf.keras.models.load_model('chatbot_model')
+    model = tf.keras.models.load_model('chatbot_model{0}'.format(embedding_size))
 
     encoder_input = model.get_layer('encoder_inputs')
     maxlen_questions = encoder_input.input.shape[1]
